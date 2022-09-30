@@ -2,8 +2,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
-      <div class="sticky -top-1 bg-base text-primary z-10 flex  justify-center px-5 py-10">
-      
+    <div class="sticky -top-1 bg-base text-primary z-10 flex  justify-center px-5 py-10">
       <div class="flex flex-wrap sm:justify-between justify-around ">
         <Link to="/" class="header-btn mx-3 my-2">
           Home
@@ -20,9 +19,8 @@ const Navbar = () => {
         <Link to="/contactme" class="header-btn mx-3 my-2">
           Contact
         </Link>
-      </div>
-      
-  </div>
+      </div>  
+    </div>
   )
 }
 

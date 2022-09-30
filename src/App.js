@@ -3,6 +3,7 @@ import { Route, Routes } from "react-router-dom";
 import AboutMe from "./Pages/AboutMe";
 import ContactMe from "./Pages/ContactMe"
 import Home from "./Pages/Home";
+import Footer from "./Components/Footer/Footer"
 import Navbar from "./Components/Navbar/Navbar";
 import Projects from "./Pages/Projects"
 import Technologies from "./Pages/Technologies"
@@ -16,11 +17,11 @@ const App = () => {
   }
 
   return (
-    <div className="App" data-theme={theme}>
+    <div className="App min-h-screen" data-theme={theme}>
 
       <Navbar />
 
-      <button onClick={themeChanger} title="Contact Sale" className="fixed z-10 bottom-10 right-8 bg-primary p-2 m-0 rounded-full drop-shadow-lg flex justify-center items-center text-white text-4xl hover:drop-shadow-2xl hover:animate-bounce duration-200">
+      <button onClick={themeChanger} title="Contact Sale" className="fixed z-20 bottom-12 right-8 bg-primary p-2 m-0 rounded-full drop-shadow-lg flex justify-center items-center text-white text-4xl hover:drop-shadow-2xl hover:animate-bounce duration-200">
         
         {
           theme === 'myLightTheme'
@@ -34,6 +35,9 @@ const App = () => {
           }
 
       </button>
+
+      {/* <Footer /> */}
+
 
         <Routes>
           <Route path="/" element={<Home />} />
