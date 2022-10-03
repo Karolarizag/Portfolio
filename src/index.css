@@ -6,6 +6,10 @@
 
 h1, h2, h3 { font-family: 'Staatliches', cursive; }
 
+.App {
+  max-width: 100% !important;
+}
+
 @layer utilities {
   .animation-delay-2000 {
     animation-delay: 2s;

@@ -1,23 +1,22 @@
-import Banner from "../Components/Banner/Banner";
-// import Blur from "../Components/Blur/Blur";
-
 const Home = () => {
   return (
-    <div class="min-h-screen">
+    <div class="flex justify-center flex-wrap">
 
-      <div class="grid grid-cols-2 gap-4">
-
-        <div class="h-full flex items-center justify-center">
-          {/* <Blur /> */}
-          <Banner />
+      <div class="relative z-10 my-auto">
+        <div class="absolute top-0 -left-4 w-72 h-72 bg-warning rounded-full mix-blend-multiply filter blur-2xl opacity-80 animate-blob"></div>
+        <div class="absolute top-0 -right-4 w-72 h-72 bg-primary rounded-full mix-blend-multiply filter blur-2xl opacity-50 animate-blob animation-delay-2000"></div>
+        <div class="absolute -bottom-8 left-20 w-72 h-72 bg-secondary rounded-full mix-blend-multiply filter blur-2xl opacity-70 animate-blob animation-delay-4000"></div>
+            
+        <div class="mt-20 relative">
+          <div class="p-3 bg-base rounded-lg">
+            <h1 class="text-6xl text-primary">Karol Ariza</h1>
+            <h1 class="text-4xl text-secondary">Web developer</h1>
+          </div>
         </div>
-
-        <div class="">
-          <img src="https://media.discordapp.net/attachments/754119455151358103/1025119944112865391/aboutme.PNG?width=600&height=600" alt="home" class="" /> 
-          {/* <div class="w-72 rounded-full bg-primary h-16 items-end"></div> */}
-        </div>
-
       </div>
+
+      <img src="https://media.discordapp.net/attachments/754119455151358103/1026593209960382514/aboutme-eee.png?width=621&height=671" alt="home" class="md:max-w-lg sm:max-w-xs bottom-10 z-20" />
+
     </div>
     )
 }
