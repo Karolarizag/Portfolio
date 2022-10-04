@@ -3,6 +3,7 @@ import { Route, Routes } from "react-router-dom";
 import AboutMe from "./Pages/AboutMe";
 import ContactMe from "./Pages/ContactMe"
 import Home from "./Pages/Home";
+import Footer from './Components/Footer/Footer'
 import Navbar from "./Components/Navbar/Navbar";
 import Projects from "./Pages/Projects"
 import Technologies from "./Pages/Technologies"
@@ -35,7 +36,7 @@ const App = () => {
 
       </button>
 
-      {/* <Footer /> */}
+      <Footer />
 
 
         <Routes>

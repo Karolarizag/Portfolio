@@ -6,9 +6,10 @@
 
 h1, h2, h3 { font-family: 'Staatliches', cursive; }
 
-.App {
-  max-width: 100% !important;
-}
+img { z-index: 10; max-height: 60vh; }
+
+.App { overflow: hidden; }
+
 
 @layer utilities {
   .animation-delay-2000 {
