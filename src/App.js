@@ -17,7 +17,7 @@ const App = () => {
   }
 
   return (
-    <div className="App" data-theme={theme}>
+    <div className="App min-h-screen" data-theme={theme}>
 
       <Navbar />
 

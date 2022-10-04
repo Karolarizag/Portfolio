@@ -7,7 +7,6 @@ module.exports = {
     extend: {
       animation: {
         blob: "blob 10s infinite alternate",
-        move: "move 4s ease-in-out infinite alternate"
       },
       keyframes: {
         blob: {
@@ -26,14 +25,6 @@ module.exports = {
           "100%": {
             transform: "translateY(-25%) ",
           },
-        },
-        move: {
-          "0%": {
-            transform: "translateX(-25%)"
-          },
-          "100%": {
-            transform: "translateX(25%)"
-          }
         }
       },
     },
@@ -47,7 +38,7 @@ module.exports = {
       {
         myLightTheme: {
           "primary": "#A954AB",
-          "secondary": "#B1EFAC",
+          "secondary": "#93C78F",
           "accent": "#FDB9FF",
           "neutral": "#CC97C4",
           "base-100": "#eee",
@@ -60,7 +51,7 @@ module.exports = {
       {
         myDarkTheme: {
           "primary": "#A954AB",
-          "secondary": "#B1EFAC",
+          "secondary": "#93C78F",
           "accent": "#FDB9FF",
           "neutral": "#CC97C4",
           "base-100": "#181818",

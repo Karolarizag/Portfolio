@@ -1,6 +1,6 @@
 const Home = () => {
   return (
-    <div class="flex justify-center flex-wrap min-w-full py-10">
+    <div class="flex justify-center flex-wrap py-10">
 
       <div class="relative z-10 my-auto">
         <div class="absolute top-0 -left-4 w-72 h-72 bg-warning rounded-full mix-blend-multiply filter blur-2xl opacity-80 animate-blob"></div>
