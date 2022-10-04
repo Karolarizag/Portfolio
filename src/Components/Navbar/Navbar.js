@@ -4,20 +4,20 @@ const Navbar = () => {
   return (
     <div class="sticky -top-1 bg-base text-primary z-10 justify-center py-10">
       <div class="flex flex-wrap justify-center">
-        <Link to="/" class="header-btn mx-3 my-2">
+        <Link to="/" class="header-btn mx-5 my-2">
           Home
         </Link>
-        <Link to="/aboutme" class="header-btn mx-3 my-2">
+        <Link to="/aboutme" class="header-btn mx-5 my-2">
           About me
         </Link>
-        <Link to="/technologies" class="header-btn mx-3 my-2">
+        <Link to="/technologies" class="header-btn mx-5 my-2">
           Technologies
         </Link>
-        <Link to="/projects" class="header-btn mx-3 my-2">
+        <Link to="/projects" class="header-btn mx-5 my-2">
           Projects
         </Link>
-        <Link to="/contactme" class="header-btn mx-3 my-2">
-          Contact
+        <Link to="/findme" class="header-btn mx-5 my-2">
+          Find me
         </Link>
       </div>  
     </div>

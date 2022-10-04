@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import { Route, Routes } from "react-router-dom";
 import AboutMe from "./Pages/AboutMe";
-import ContactMe from "./Pages/ContactMe"
+import FindMe from "./Pages/FindMe"
 import Home from "./Pages/Home";
 import Footer from './Components/Footer/Footer'
 import Navbar from "./Components/Navbar/Navbar";
@@ -44,7 +44,7 @@ const App = () => {
           <Route path="/aboutme" element={<AboutMe />} />
           <Route path="/technologies" element={<Technologies />} />
           <Route path="/projects" element={<Projects />} />
-          <Route path="/contactme" element={<ContactMe />} />
+          <Route path="/findme" element={<FindMe />} />
         </Routes>
 
     </div>
