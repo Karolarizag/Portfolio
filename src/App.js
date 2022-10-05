@@ -21,7 +21,7 @@ const App = () => {
 
       <Navbar />
 
-      <button onClick={themeChanger} title="Contact Sale" className="fixed z-20 bottom-12 right-8 bg-primary p-2 m-0 rounded-full drop-shadow-lg flex justify-center items-center text-white text-4xl hover:drop-shadow-2xl hover:animate-bounce duration-200">
+      <button onClick={themeChanger} title="Theme changer" className="fixed z-20 bottom-12 right-8 bg-primary p-2 m-0 rounded-full drop-shadow-lg flex justify-center items-center text-white text-4xl hover:drop-shadow-2xl hover:animate-bounce duration-200">
         
         {
           theme === 'myLightTheme'

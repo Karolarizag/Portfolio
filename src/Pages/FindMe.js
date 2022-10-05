@@ -14,11 +14,11 @@ const contact = [
   //   link: "mailto:karolarizadev@gmail.com",
   //   img: "https://media.discordapp.net/attachments/754119455151358103/1026915406725775381/mail.png"
   // },
-  {
-    name: "cv",
-    link: "https://drive.google.com/file/d/1RRjzKRRS2aPG55wq065k13Rwmxeu6OoJ/view?usp=sharing",
-    img: "https://media.discordapp.net/attachments/754119455151358103/1026940680368574504/cv.png"
-  },
+  // {
+  //   name: "cv",
+  //   link: "https://drive.google.com/file/d/1RRjzKRRS2aPG55wq065k13Rwmxeu6OoJ/view?usp=sharing",
+  //   img: "https://media.discordapp.net/attachments/754119455151358103/1026940680368574504/cv.png"
+  // },
 ]
 
 const FindMe = () => {
