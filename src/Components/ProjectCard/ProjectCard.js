@@ -1,11 +1,14 @@
 const ProjectCard = ({props}) => {
+
+  const statusClass = props.status === 'Finished' ? "badge badge-secondary" : "badge badge-primary"
+
   return (
-    <div class="w-96">
+    <div class="w-96 mx-5">
       <img src={props.img} alt={props.name} class="rounded-lg shadow-lg" />
       <div class="card-body">
         <h2 class="card-title">
           {props.name}
-          <div class="badge badge-secondary">
+          <div class={statusClass}>
             {props.status}
           </div>
         </h2>
