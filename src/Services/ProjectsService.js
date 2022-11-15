@@ -1,10 +1,10 @@
 export const projects = [
   {
     id: 4,
-    name: 'Movies App', 
-    img: 'https://media.discordapp.net/attachments/754119455151358103/1037773012797235252/unknown.png?width=459&height=649', 
-    link: '', 
-    repo: 'https://github.com/Karolarizag/moviesapp',
+    name: 'Netflix (copy)', 
+    img: 'https://media.discordapp.net/attachments/754119455151358103/1042185830883676242/image.png?width=470&height=664', 
+    link: 'https://netflix-karolariza.netlify.app/', 
+    repo: 'https://github.com/Karolarizag/netflix',
     status: 'In process'
   },
   {
