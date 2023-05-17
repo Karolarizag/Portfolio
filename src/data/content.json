@@ -1,0 +1,147 @@
+{
+  "home": {
+    "title": "Karol Ariza",
+    "subtitle": "Front end Developer"
+  },
+  "aboutme": {
+    "title": "About me",
+    "content": [
+      "Hey! This is Karol Ariza, a Front End developer who started this career trying luck and finally fell in love with development... well, almost in love.",
+      "I started with a Bootcamp and then self trainning in technologies such as React, Next, Angular, etc (you will know all of them soon). But if you really want to know, React is my endless love, so if you have something to work on it, I'd love to participate!", 
+      "Development could be a chanlleging field, but I want to try all ways possible to work on it. I started working in a e-commerce but lately it seems like multimedia is the thing on these days... I say this because I'm currently working in OTT platforms implementing videoplayers and doing funny stuff where clients will pass all their free time, so we work hard to have no issues or buggssss.", 
+      "But I'm still a person, not a machine, so I'll tell you a little bit about my free time spends: Travelling, reading, playing videogames and watching series/movies. Also I live in Tenerife, is one of the Canary Islands located in Africa but belongs to Spain, an actually paradise most of all because allows me to be more time on the beach than any else."
+    ]
+  },
+  "technologies": {
+    "title": "Technologies", 
+    "content": [
+      {
+        "tech": "javascript",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915420411797534/js.png"
+      },
+      {
+        "tech": "typescript",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915409926029342/typescript.png"
+      },
+      {
+        "tech": "react",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915408734846976/react.png"
+      },
+      {
+        "tech": "next", 
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1108498580588732466/next.png"
+      },
+      {
+        "tech": "vue",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915410295128135/vue.png"
+      },
+      {
+        "tech": "nuxt",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915408328007770/nuxt.png"
+      },
+      {
+        "tech": "angular",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1108500701371433070/angular.png"
+      },
+      {
+        "tech": "rxjs",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1108500701975412736/rxjs.png"
+      },
+      {
+        "tech": "redux",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1108500701631483974/redux.png"
+      },
+      {
+        "tech": "graphql",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1108500701136556122/graphql.png"
+      },
+      {
+        "tech": "mongodb",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915407174578248/mongodb.png"
+      },
+      {
+        "tech": "tizen",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1108500702231273552/tizen.png"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects", 
+    "content": [
+      {
+        "id": 4,
+        "name": "Netflix (copy)", 
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1042185830883676242/image.png?width=470&height=664", 
+        "link": "https://netflix-karolariza.netlify.app/", 
+        "repo": "https://github.com/Karolarizag/netflix",
+        "status": "In process"
+      },
+      {
+        "id": 3,
+        "name": "Rick & Morty",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026928524424130641/unknown.png?width=428&height=604",
+        "link": "https://rick-and-morty-karolariza.netlify.app/",
+        "repo": "https://github.com/Karolarizag/Rick-Morty",
+        "status": "Finished"
+      },
+      {
+        "id": 2,
+        "name": "Giphyy",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026928962179440814/unknown.png?width=428&height=604",
+        "link": "https://giphyy.netlify.app/",
+        "repo": "https://github.com/Karolarizag/Giphyy",
+        "status": "Finished"
+      },
+      {
+        "id": 1,
+        "name": "Mapache's memory",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026928389967335585/unknown.png?width=427&height=604",
+        "link": "https://arixka.github.io/Mapache-s-Memory-Games/",
+        "repo": "https://github.com/Karolarizag/Mapache-s-Memory-Games",
+        "status": "Finished"
+      }
+    ]
+  },
+  "findme": {
+    "title": "Find me",
+    "content": [
+      {
+        "name": "github",
+        "link": "https://github.com/Karolarizag",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915375201402941/github.png"
+      },
+      {
+        "name": "linkedin",
+        "link": "https://www.linkedin.com/in/karolarizag/",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915420768313454/linkedin.png"
+      },
+      {
+        "name": "cv",
+        "link": "https://drive.google.com/file/d/1oC3ithb3758Tvx4MC3XwSZanrVCz4rcJ/view?usp=sharing",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026940680368574504/cv.png"
+      }
+    ]
+  },
+  "header": [
+    {
+      "title": "Home",
+      "link": "/"
+    },
+    {
+      "title": "About me",
+      "link": "/aboutme"
+    },
+    {
+      "title": "Technologies",
+      "link": "/technologies"
+    },
+    {
+      "title": "Projects",
+      "link": "/projects"
+    },
+    {
+      "title": "Find me",
+      "link": "/findme"
+    }
+  ]
+}
