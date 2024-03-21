@@ -15,7 +15,7 @@ export const FindMe = () => {
             })
           }
         </div>
-        <img src="https://media.discordapp.net/attachments/754119455151358103/1026916274661494834/projects.PNG?width=754&height=605" alt="findme" />
+        <img src="https://media.discordapp.net/attachments/754119455151358103/1026915372022120539/aboutme-page.PNG?ex=660c4677&is=65f9d177&hm=1541b078627e3435b2d85e8d56925171ae5bea28cd8ced784e1eebfc9bbcb269&=&format=webp&quality=lossless&width=448&height=561" alt="findme" />
       </div>
     </div>  
     )

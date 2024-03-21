@@ -17,7 +17,7 @@ export const Home = () => {
           </div>
         </div>
       </div>
-      <img src="https://media.discordapp.net/attachments/754119455151358103/1026593209960382514/aboutme-eee.png?width=621&height=671" alt="home" />
+      <img src="https://media.discordapp.net/attachments/754119455151358103/1026915376459685938/home-page.png?ex=660c4678&is=65f9d178&hm=d847831dc344bc02ff6db0c6d7dbfe3f9925240d407eb3f1a935a8e6a2fb9a68&=&format=webp&quality=lossless&width=520&height=561" alt="home" />
     </div>
     )
 }

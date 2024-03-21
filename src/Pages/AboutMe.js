@@ -10,11 +10,11 @@ export const AboutMe = () => {
         <h1 class="text-6xl text-primary">{aboutme.title}</h1>
         {
           aboutme.content.map((c, idx) => {
-            return <p class="mt-3" key={idx}>{c}</p>
+            return <p class="mb-3" key={idx}>{c}</p>
           })
         }
       </div>
-      <img src="https://media.discordapp.net/attachments/754119455151358103/1026915372022120539/aboutme-page.PNG?width=482&height=604" alt="aboutme" class="mb-10" />
+      <img src="https://media.discordapp.net/attachments/754119455151358103/1026916274661494834/projects.PNG?ex=660c474f&is=65f9d24f&hm=08e2520c17e4782d23f1319d67cb5fc4d87674912a68d62e5c861c81467f50b4&=&format=webp&quality=lossless&width=699&height=560" alt="aboutme" class="mb-10" />
     </div>  
     )
 }

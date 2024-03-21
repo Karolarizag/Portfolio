@@ -17,51 +17,47 @@
     "content": [
       {
         "tech": "javascript",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915420411797534/js.png"
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915420411797534/js.png?ex=660c4683&is=65f9d183&hm=a905e9fc04b1aa3b33eac8e1eb372e3c0fb86fe622fa76089d1778f05f5009d9&=&format=webp&quality=lossless&width=476&height=476"
       },
       {
         "tech": "typescript",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915409926029342/typescript.png"
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915409926029342/typescript.png?ex=660c4680&is=65f9d180&hm=4eebdb28f4ff6b6b3bc22c23f94410cf5d220dc934d66846a0743e10684668dc&=&format=webp&quality=lossless&width=476&height=476"
       },
       {
         "tech": "react",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915408734846976/react.png"
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915408734846976/react.png?ex=660c4680&is=65f9d180&hm=1a4187cd0f3e7907077367f2afcb29057d76e218326ac9437dc353cddb17fa84&=&format=webp&quality=lossless&width=476&height=476"
       },
       {
         "tech": "next", 
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1108498580588732466/next.png"
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1108498580588732466/next.png?ex=660dc2c0&is=65fb4dc0&hm=416f4681d194b5f634f8b8e37e5245446d90915c92a953588d09c60f551b0f84&=&format=webp&quality=lossless&width=476&height=476"
       },
       {
         "tech": "vue",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915410295128135/vue.png"
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915410295128135/vue.png?ex=660c4680&is=65f9d180&hm=2546ed415e2508fc94bd46a1edd4915f9b0ba3274b817fe790ab867af7b39c0e&=&format=webp&quality=lossless&width=476&height=476"
       },
       {
         "tech": "nuxt",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915408328007770/nuxt.png"
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915408328007770/nuxt.png?ex=660c4680&is=65f9d180&hm=77e31a2e7b6cfaa4208285b12e511f88f835bb30774ee5b441f072f723137be3&=&format=webp&quality=lossless&width=476&height=476"
       },
       {
         "tech": "angular",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1108500701371433070/angular.png"
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1108500701371433070/angular.png?ex=660dc4ba&is=65fb4fba&hm=75d1207db37c96349ab88475ea9a517ca74dd2f83f62e2af4aff364532ec2a3f&=&format=webp&quality=lossless&width=476&height=476"
       },
       {
         "tech": "rxjs",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1108500701975412736/rxjs.png"
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1108500701975412736/rxjs.png?ex=660dc4ba&is=65fb4fba&hm=47eb1b43be2b57c7827776b991c2ee33d1111d8061d162bc14b7b8b003c243ab&=&format=webp&quality=lossless&width=476&height=476"
       },
       {
         "tech": "redux",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1108500701631483974/redux.png"
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1108500701631483974/redux.png?ex=660dc4ba&is=65fb4fba&hm=3fca08f34300002fa9c86f693828dfddd765b4da786738bc55c31fe57a09211a&=&format=webp&quality=lossless&width=476&height=476"
       },
       {
         "tech": "graphql",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1108500701136556122/graphql.png"
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1108500701136556122/graphql.png?ex=660dc4ba&is=65fb4fba&hm=8ca8b75b7ed35a8a9fb19e451e0bd0b05518eb76dd3d2ebdfbcbca3e1f1a1fa5&=&format=webp&quality=lossless&width=476&height=476"
       },
       {
         "tech": "mongodb",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915407174578248/mongodb.png"
-      },
-      {
-        "tech": "tizen",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1108500702231273552/tizen.png"
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915407174578248/mongodb.png?ex=660c4680&is=65f9d180&hm=afab5b65d0f5d25a2301da123675854b055b182603ae4c239c6d40cfec390273&=&format=webp&quality=lossless&width=476&height=476"
       }
     ]
   },
@@ -71,7 +67,7 @@
       {
         "id": 4,
         "name": "Netflix (copy)", 
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1042185830883676242/image.png?width=470&height=664", 
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1114897962137571398/image.png?ex=66095b23&is=65f6e623&hm=d7fb8556e4f595d9b28f7447a02c8570534b1f398fcc3e7137fb32f3c249c48e&=&format=webp&quality=lossless&width=293&height=416", 
         "link": "https://netflix-karolariza.netlify.app/", 
         "repo": "https://github.com/Karolarizag/netflix",
         "status": "In process"
@@ -79,7 +75,7 @@
       {
         "id": 3,
         "name": "Rick & Morty",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1026928524424130641/unknown.png?width=428&height=604",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026928524424130641/unknown.png?ex=660c52b7&is=65f9ddb7&hm=bbd3fd9eccdffdc4a3dd00f2e2cb3a5a774ff76b2094395ea9b62f3a50ea07d8&=&format=webp&quality=lossless&width=295&height=416",
         "link": "https://rick-and-morty-karolariza.netlify.app/",
         "repo": "https://github.com/Karolarizag/Rick-Morty",
         "status": "Finished"
@@ -87,7 +83,7 @@
       {
         "id": 2,
         "name": "Giphyy",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1026928962179440814/unknown.png?width=428&height=604",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026928962179440814/unknown.png?ex=660c5320&is=65f9de20&hm=332f6d2196ca8dd89293d2b8fa5e76853be7e0a620441cb1a2b6689301ae0b86&=&format=webp&quality=lossless&width=397&height=561",
         "link": "https://giphyy.netlify.app/",
         "repo": "https://github.com/Karolarizag/Giphyy",
         "status": "Finished"
@@ -95,7 +91,7 @@
       {
         "id": 1,
         "name": "Mapache's memory",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1026928389967335585/unknown.png?width=427&height=604",
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026928389967335585/unknown.png?ex=660c5297&is=65f9dd97&hm=58b2292412bbd8f9cd7feba860c91ed82b4bb1e9604c365288d35f0948cf822c&=&format=webp&quality=lossless&width=396&height=561",
         "link": "https://arixka.github.io/Mapache-s-Memory-Games/",
         "repo": "https://github.com/Karolarizag/Mapache-s-Memory-Games",
         "status": "Finished"
@@ -108,17 +104,17 @@
       {
         "name": "github",
         "link": "https://github.com/Karolarizag",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915375201402941/github.png"
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915375201402941/github.png?ex=660c4678&is=65f9d178&hm=c6232d2690312f460c5d88b20990f6d418d38e36f8e53c0dc03eb7b0eda7dbd5&=&format=webp&quality=lossless&width=238&height=238"
       },
       {
         "name": "linkedin",
         "link": "https://www.linkedin.com/in/karolarizag/",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915420768313454/linkedin.png"
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026915420768313454/linkedin.png?ex=660c4683&is=65f9d183&hm=c56aea934f3b156f3f191bf2d703e28a045fbfa2f4ddfc128383e68de93be772&=&format=webp&quality=lossless&width=238&height=238"
       },
       {
         "name": "cv",
         "link": "https://drive.google.com/file/d/1oC3ithb3758Tvx4MC3XwSZanrVCz4rcJ/view?usp=sharing",
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1026940680368574504/cv.png"
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1026940680368574504/cv.png?ex=660c5e09&is=65f9e909&hm=4c6f31cf52d67340a06a36da5ed602ffad14d5b88c4782b988e0e80158e3d2e6&=&format=webp&quality=lossless&width=238&height=238"
       }
     ]
   },
