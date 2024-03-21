@@ -67,8 +67,8 @@
       {
         "id": 4,
         "name": "Netflix (copy)", 
-        "img": "https://media.discordapp.net/attachments/754119455151358103/1114897962137571398/image.png?ex=66095b23&is=65f6e623&hm=d7fb8556e4f595d9b28f7447a02c8570534b1f398fcc3e7137fb32f3c249c48e&=&format=webp&quality=lossless&width=293&height=416", 
-        "link": "https://netflix-karolariza.netlify.app/", 
+        "img": "https://media.discordapp.net/attachments/754119455151358103/1114897962137571398/image.png?ex=66095b23&is=65f6e623&hm=d7fb8556e4f595d9b28f7447a02c8570534b1f398fcc3e7137fb32f3c249c48e&=&format=webp&quality=lossless&width=293&height=416",  
+        "link": "https://moviesapp-by-karol-ariza.netlify.app/",
         "repo": "https://github.com/Karolarizag/netflix",
         "status": "In process"
       },
