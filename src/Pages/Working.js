@@ -1,4 +1,3 @@
-import content from "../data/content.json"
 
 export const Working = () => {
 
