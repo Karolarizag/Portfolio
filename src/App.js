@@ -1,21 +1,21 @@
-import React, { useState } from "react";
-import { Route, Routes } from "react-router-dom";
-import { AboutMe } from "./Pages/AboutMe";
-import { FindMe } from "./Pages/FindMe"
-import { Home } from "./Pages/Home";
-import Footer from './Components/Footer/Footer'
-import Navbar from "./Components/Navbar/Navbar";
-import { Projects } from "./Pages/Projects"
-import Technologies from "./Pages/Technologies"
+import React from "react";
+// import { Route, Routes } from "react-router-dom";
+// import { AboutMe } from "./Pages/AboutMe";
+// import { FindMe } from "./Pages/FindMe"
+// import { Home } from "./Pages/Home";
+// import Footer from './Components/Footer/Footer'
+// import Navbar from "./Components/Navbar/Navbar";
+// import { Projects } from "./Pages/Projects"
+// import Technologies from "./Pages/Technologies"
 import { Working } from "./Pages/Working";
 
 export const App = () => {
 
-  let [ theme, setTheme ] = useState('myLightTheme' )
+  // let [ theme, setTheme ] = useState('myLightTheme' )
 
-  const themeChanger = () => {
-    theme === 'myLightTheme' ? setTheme( 'myDarkTheme' ) : setTheme( 'myLightTheme' )
-  }
+  // const themeChanger = () => {
+  //   theme === 'myLightTheme' ? setTheme( 'myDarkTheme' ) : setTheme( 'myLightTheme' )
+  // }
   return <Working />
 
   // return (
